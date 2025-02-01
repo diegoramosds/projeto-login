@@ -7,19 +7,27 @@
 
 - Projeto criado com objetivo de simular uma tela de login responsiva.
 
-- Tecnologias utilizadas: <br>
+
+## 🚀 Tecnologias utilizadas: <br>
   - Html <br>
   - css <br>
   - JavaScript
 
 
-## 🚀 Rodando projeto-login
+## ✨ Destaques
+  - Layout responsivo <br>
+  - Efeitos visuais  <br>
+  - Design moderno
 
-Para rodar o projeto-login, siga estas etapas:
 
-- Clone o repositório
-- Rode o comando localmente
-- Acesse pela URL gerada.
+## 🚀 Como rodar o projeto
+
+1️⃣ **Clone o repositório**:  
+```bash
+git clone https://github.com/diegoramosds/projeto-login.git
+```
+2️⃣ Abra o arquivo `index.html` no navegador (ou rode um servidor local, se necessário).<br>
+3️⃣ Acesse pela URL gerada <br>
 
 
 
