@@ -9,15 +9,17 @@
 
 
 ## 🚀 Tecnologias utilizadas: <br>
-  - Html <br>
-  - css <br>
-  - JavaScript
+- ✔️ **Html**
+- ✔️ **css** 
+- ✔️ **JavaScript**
 
 
 ## ✨ Destaques
-  - Layout responsivo <br>
-  - Efeitos visuais  <br>
-  - Design moderno
+📱 **Layout Responsivo** – adaptável a diferentes dispositivos e tamanhos de tela.
+
+🎨 **Efeitos Visuais** – animações e transições para uma experiência mais dinâmica.
+
+🖌️ **Design Moderno** – interface elegante e intuitiva.
 
 
 ## 🚀 Como rodar o projeto
